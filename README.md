@@ -3,7 +3,7 @@
 First web page testing
 
 # Installation
-First open new terminal in Visual Studio Code and clone the project from this link: https://github.com/ahmetdogdu01/First-Web-Page.git<br>
+First open new terminal in Visual Studio Code and clone the project from this link: https://github.com/ahmetdogdu01/first-web-pagee.git<br>
 Example:<br>
 git clone <i>web_url</i>
 
